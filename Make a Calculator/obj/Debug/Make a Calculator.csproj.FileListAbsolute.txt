@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Make a Calculator\Make a Calculator\bin\Debug\Make a Calculator.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Make a Calculator\Make a Calculator\obj\Debug\Make a Calculator.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Make a Calculator\Make a Calculator\bin\Debug\Make a Calculator.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Make a Calculator\Make a Calculator\bin\Debug\Make a Calculator.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Make a Calculator\Make a Calculator\obj\Debug\Make a Calculator.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Make a Calculator\Make a Calculator\obj\Debug\Make a Calculator.pdb
